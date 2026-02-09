@@ -45,7 +45,7 @@
     height="40"
   >
   <a 
-    href="(https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D1%8B%D0%BD-%D1%84%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-8657483a8/)"
+    href="https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D1%8B%D0%BD-%D1%84%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-8657483a8/"
     target="_blank"
     style="text-decoration: none; font-weight: 600; color: #000;"
   >

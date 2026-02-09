@@ -30,7 +30,7 @@
     style="border-radius: 50%;"
   >
   <a 
-    href="https://github.com/USERNAME" 
+    href="https://github.com/AydinFatullayev" 
     target="_blank"
     style="text-decoration: none; font-weight: 600; color: #000;"
   >

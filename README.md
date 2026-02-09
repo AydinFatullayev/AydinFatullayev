@@ -57,9 +57,6 @@
   </a>
 </div>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AydinFatullayev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AydinFatullayev&layout=compact&theme=tokyonight)
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydinfatullayev&" alt="aydinfatullayev" /></p>
 
 <div align="center">

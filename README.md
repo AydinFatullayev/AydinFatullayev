@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDr-NajafovEljan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDr-NajafovEljan&labelColor=%23555555&countColor=%23F0B354"/></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDr-NajafovEljan"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAydinFatullayev&labelColor=%23555555&countColor=%23F0B354"/></a>
 </div>

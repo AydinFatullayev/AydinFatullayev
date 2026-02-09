@@ -21,9 +21,38 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinfatullayev&show_icons=true&locale=en&layout=compact" alt="aydinfatullayev" /></p>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img 
+    src="https://github.com/USERNAME.png" 
+    alt="GitHub profile photo"
+    width="40"
+    height="40"
+    style="border-radius: 50%;"
+  >
+  <a 
+    href="https://github.com/USERNAME" 
+    target="_blank"
+    style="text-decoration: none; font-weight: 600; color: #000;"
+  >
+    Айдын
+  </a>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+    alt="LinkedIn icon"
+    width="40"
+    height="40"
+  >
+  <a 
+    href="https://www.linkedin.com/in/YOUR_PROFILE/"
+    target="_blank"
+    style="text-decoration: none; font-weight: 600; color: #000;"
+  >
+    Айдын
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydinfatullayev&show_icons=true&locale=en" alt="aydinfatullayev" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydinfatullayev&" alt="aydinfatullayev" /></p>
 

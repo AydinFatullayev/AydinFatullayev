@@ -23,7 +23,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img 
-    src="https://github.com/USERNAME.png" 
+    src="https://avatars.githubusercontent.com/u/182819133?s=400&u=02d8b54ffd279d680fb88f40b10df763aa05698c&v=4" 
     alt="GitHub profile photo"
     width="40"
     height="40"
